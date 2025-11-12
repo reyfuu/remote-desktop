@@ -20,6 +20,6 @@
 - pilih remote desktop connection
   logseq.order-list-type:: number
 - https://github.com/reyfuu/remote-desktop/blob/main/images/search%20rdp.png?raw=true
-- 2. Masukka ip dan port yang digunakan remote desktop
+- 2. Masukkan ip dan port yang digunakan remote desktop
 - https://github.com/reyfuu/remote-desktop/blob/main/images/remote%20desktop.png?raw=true
 -
