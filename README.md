@@ -19,7 +19,7 @@
 - # setup in windows
 - pilih remote desktop connection
   logseq.order-list-type:: number
-- ![image_1762924743969_0.png](../assets/image_1762924743969_0_1762926239588_0.png)
+- https://github.com/reyfuu/remote-desktop/blob/main/images/search%20rdp.png?raw=true
 - 2. Masukka ip dan port yang digunakan remote desktop
-- ![image_1762924795114_0.png](../assets/image_1762924795114_0_1762926260945_0.png)
+- https://github.com/reyfuu/remote-desktop/blob/main/images/remote%20desktop.png?raw=true
 -
